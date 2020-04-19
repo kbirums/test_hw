@@ -62,6 +62,7 @@ table {
 }
 tbody{border:1px solid grey}
 th{
+  color:white;
   border:1px solid grey;
   background:green
 }
