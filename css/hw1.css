@@ -42,11 +42,12 @@ h2{
 .left {
     background: #365036;
     padding: 15px;
-    width: 500px;
+    width: 80%;
 }
 .right {
     margin: 10px;
 }
-img{
-  width: 100%;
+img {
+    border: 3px solid #e8e8e8;
+    width: 100%;
 }
