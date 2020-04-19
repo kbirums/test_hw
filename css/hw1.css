@@ -7,7 +7,7 @@ nav {
     width: 100%;
     text-align: center;
 }
-nav>a{
+nav > a{
   background: white
 }
 nav:hover {
