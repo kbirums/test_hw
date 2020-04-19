@@ -28,25 +28,21 @@ nav > a:active{
     background: #fff;
 }
 main {
-    display: inline-block;
-}
+    display: flex;
+} 
 h1{
   color:#fff;  text-align: center;
 }
 h2{
   color:#9182ff;
 }
-.left{
-  width:30%
+.left {
+    background: #365036;
+    padding: 15px;
+    width: 500px;
 }
-.right{
-  width: 69%;
-}
-aside {
-    padding: 20px;
-    width: 25%;
-    float: left;
-    background: #3c3c3c;
+.right {
+    margin: 10px;
 }
 img{
   width: 100%;
