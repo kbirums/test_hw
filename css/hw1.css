@@ -54,12 +54,14 @@ img {
     width: 100%;
 }
 table {
-    border: 1px solid grey;
+    overflow: hidden;
     border-radius: 10px;
     width: 100%;
     text-align: left;
+    border-collapse: collapse;
 }
 th{
+  border:1px solid grey;
   background:green
 }
 tr{
