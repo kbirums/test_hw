@@ -2,9 +2,17 @@
 body{margin:20px;}
 header{background:#585858; padding: 15px; margin:5px}
 nav{color:#fff;font-size: 18px}
-main{margin:5px; padding: 15px; background:#353535; color:#fff}
+main {
+    display: inline-block;
+}
 a { color: #585858; padding: 3px; background: #ffffff}
 a:hover{color:#691414}
 h1{color:#fff;  text-align: center;}
 h2{color:#9182ff;}
 .left{width:30%}
+aside {
+    padding: 20px;
+    width: 25%;
+    float: left;
+    background: #3c3c3c;
+}
