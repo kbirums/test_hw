@@ -54,11 +54,10 @@ img {
     width: 100%;
 }
 table {
-    overflow: hidden;
-    border-radius: 10px;
-    width: 100%;
-    text-align: left;
-    border-collapse: collapse;
+  border-collapse: collapse;
+  border-radius: 1em;
+  overflow: hidden;
+  border:1px solid grey;
 }
 tbody{border:1px solid grey}
 th, tr{
