@@ -23,6 +23,9 @@ nav > a {
 nav > a:hover{
     background: #fff;
 }
+nav > a:active{
+    background: #fff;
+}
 main {
     display: inline-block;
 }
