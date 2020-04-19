@@ -41,12 +41,13 @@ h2{
 }
 .left {
     min-width: 300px;
-    max-width: 301px;
+    width: 30%;
     background: #365036;
     padding: 15px;
 }
 .right {
     margin: 10px;
+    width: 70%;
 }
 img {
     border: 3px solid #e8e8e8;
