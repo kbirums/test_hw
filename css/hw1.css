@@ -3,7 +3,7 @@ header{background:#585858; padding: 15px; margin:5px}
 nav{color:#fff}
 img{display:none}
 main{margin:5px; padding: 15px; background:#353535; color:#fff}
-a{color:#fff}
+a{color:#fff; background:grey}
 a:hover{color:#691414}
 a:active{color:#989898}
 h1{
