@@ -1,7 +1,15 @@
 
 body{margin:20px;}
 header{background:#585858; padding: 15px; margin:5px}
-nav{color:#fff;font-size: 18px}
+nav {
+    color: #ffffff2e;
+    font-size: 18px;
+    width: 100%;
+    text-align: center;
+}
+nav:hover {
+    color: #fff;
+}
 main {
     display: inline-block;
 }
