@@ -1,12 +1,13 @@
 
-body{
-  margin:20px;
+body {
+    width: 80%;
+    margin: 0 auto;
 }
 header {
     background-image: url(http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg);
     background-size: 100%;
     padding: 15px;
-    margin: 5px;
+    margin-bottom:5px;
 }
 nav {
     width: 100%;
