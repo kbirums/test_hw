@@ -61,6 +61,9 @@ table {
     border-collapse: collapse;
 }
 tbody{border:1px solid grey}
+th, tr{
+  display: block;
+}
 th{
   color:white;
   border:1px solid grey;
