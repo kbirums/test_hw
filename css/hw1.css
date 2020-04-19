@@ -27,7 +27,7 @@ nav > a {
 nav > a:hover{
     background: #fff;
 }
-a:active{
+nav > a:active{
     background: #000;
 }
 main {
