@@ -8,3 +8,6 @@ a { color: #585858; padding: 3px; background: #ffffff}
 a:hover{color:#691414}
 h1{color:#fff;  text-align: center;}
 h2{color:#9182ff;}
+aside {
+    display: none;
+}
