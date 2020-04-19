@@ -7,7 +7,8 @@ a{color:#fff; background:grey}
 a:hover{color:#691414}
 a:active{color:#989898}
 h1{
-  color:#fff
+  color:#fff;
+  text-align: center;
 }
 h2{
   color:#36315a;
