@@ -19,7 +19,7 @@ nav > a {
     text-decoration: none;
 }
 nav > a:hover{
-    color: #fff;
+    background: #fff;
 }
 main {
     display: inline-block;
