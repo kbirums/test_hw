@@ -67,6 +67,7 @@ th {
   text-transform: uppercase;
   background-color: #464646;
   color:#fff;
+  opacity: 1;
 }
 td {
   padding: 1em;
