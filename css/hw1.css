@@ -60,16 +60,10 @@ table {
   border:1px solid grey;
 }
 tbody{border:1px solid grey}
-th, tr{
-  display: block;
-}
-th{
-  color:white;
-  border:1px solid grey;
-  background:green
-}
-tr{
-    height: 30px;
+th, td {
+  padding: 1em;
+  background: #ddd;
+  border-bottom: 2px solid white;
 }
 tr:nth-child(even) {
   background-color: #f2f2f2;
