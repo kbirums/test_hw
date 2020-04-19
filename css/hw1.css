@@ -8,11 +8,11 @@ nav {
     text-align: center;
 }
 nav > a{
-  background: white;
+    color: #ffffff82;
   padding:10px;
   text-decoration: none;
 }
-nav:hover {
+nav > a:hover{
     color: #fff;
 }
 main {
