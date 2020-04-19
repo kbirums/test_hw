@@ -61,13 +61,13 @@ table {
     box-shadow: 0px 0px 1px;
 }
 th {
-  padding: 1em;
-  text-align: center;
-  font-weight: 500;
-  text-transform: uppercase;
-  background-color: #464646;
-  color:#fff;
-  opacity: 1;
+    padding: 1em;
+    text-align: center;
+    font-weight: 500;
+    text-transform: uppercase;
+    background-color: #464646;
+    color: #fff;
+    border: 1px solid #151515;
 }
 td {
   padding: 1em;
