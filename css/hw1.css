@@ -39,6 +39,9 @@ h2{
 .left{
   width:30%
 }
+.right{
+  width: 69%;
+}
 aside {
     padding: 20px;
     width: 25%;
