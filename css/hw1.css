@@ -1,16 +1,22 @@
 
-body{margin:20px;}
-header{background:#585858; padding: 15px; margin:5px}
+body{
+  margin:20px;
+}
+header{
+  background:#585858;
+  padding: 15px;
+  margin:5px
+}
 nav {
-    color: #ffffff2e;
-    font-size: 18px;
     width: 100%;
     text-align: center;
 }
-nav > a{
-    color: #ffffff82;
-  padding:10px;
-  text-decoration: none;
+nav > a {
+    font-size: 18px;
+    background: #ffffff82;
+    padding: 10px 20px;
+    color: black;
+    text-decoration: none;
 }
 nav > a:hover{
     color: #fff;
@@ -18,9 +24,15 @@ nav > a:hover{
 main {
     display: inline-block;
 }
-h1{color:#fff;  text-align: center;}
-h2{color:#9182ff;}
-.left{width:30%}
+h1{
+  color:#fff;  text-align: center;
+}
+h2{
+  color:#9182ff;
+}
+.left{
+  width:30%
+}
 aside {
     padding: 20px;
     width: 25%;
