@@ -77,4 +77,5 @@ tr:nth-child(even) {
 tr:hover {
     background-color: #464646;
     color: white;
+    opacity: 1;
 }
