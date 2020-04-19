@@ -1,7 +1,7 @@
 
 body{margin:20px;}
 header{background:#585858; padding: 15px; margin:5px}
-nav{color:#fff}
+nav{color:#fff;font-size: 14px}
 img{display:none}
 main{margin:5px; padding: 15px; background:#353535; color:#fff}
 a{color:#fff; background:grey}
