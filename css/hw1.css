@@ -40,7 +40,8 @@ h2{
   color:#9182ff;
 }
 .left {
-    width: 300px;
+    min-width: 300px;
+    max-width: 301px;
     background: #365036;
     padding: 15px;
 }
@@ -50,4 +51,8 @@ h2{
 img {
     border: 3px solid #e8e8e8;
     width: 100%;
+}
+table{
+    border: 1px solid grey;
+    border-radius: 10px;
 }
