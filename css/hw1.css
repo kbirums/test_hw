@@ -67,7 +67,10 @@ th {
   text-transform: uppercase;
 }
 td {
-
+  padding: 1em;
+  text-align: center;
+  font-weight: 500;
+  padding:5px;
 }
 tr{
 opacity: 0.6;
