@@ -74,7 +74,7 @@ td {
   padding:5px;
 }
 tr{
-opacity: 0.6;
+opacity: 0.8;
 }
 tr:nth-child(even) {
   background-color: #f2f2f2;
